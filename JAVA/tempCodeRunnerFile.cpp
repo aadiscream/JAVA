@@ -1,0 +1,2 @@
+ while (money > 0)
+    {
